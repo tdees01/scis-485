@@ -1,4 +1,4 @@
-//Exercise 1.9
+//Exercise 1.10
 import { useState } from 'react'
 
 const StatisticLine = (props) => {
